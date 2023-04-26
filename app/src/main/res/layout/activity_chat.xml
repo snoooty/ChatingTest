@@ -24,6 +24,7 @@
         android:importantForAutofill="no" />
 
     <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/chat_recyclerview"
         android:layout_width="409dp"
         android:layout_height="680dp"
         app:layout_constraintBottom_toBottomOf="parent"
